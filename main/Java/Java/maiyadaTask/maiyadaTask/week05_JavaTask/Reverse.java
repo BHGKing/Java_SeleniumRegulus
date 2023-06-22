@@ -19,6 +19,7 @@ public class Reverse {
 
     public static void main(String[] args) {
         System.out.println(StrReverse("ABCD"));
+        System.out.println(StrReverse("QWER"));
 
     }
 }
