@@ -1,4 +1,4 @@
-package main.Java.Java.maiyadaTask.maiyadaTask.week03_JavaTask;
+package Java.maiyadaTask.week03_JavaTask;
 
 public class PrimeNumber {
 

@@ -1,4 +1,4 @@
-package main.Java.Java.maiyadaTask.maiyadaTask.week02_JavaTask;
+package Java.maiyadaTask.week02_JavaTask;
 
 public class DivisibleBy_3_5_15 {
 

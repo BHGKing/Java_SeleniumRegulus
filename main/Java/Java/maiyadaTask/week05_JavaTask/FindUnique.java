@@ -1,4 +1,4 @@
-package Java.maiyadaTask.maiyadaTask.week05_JavaTask;
+package Java.maiyadaTask.week05_JavaTask;
 
 public class FindUnique {
 

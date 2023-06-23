@@ -1,4 +1,4 @@
-package main.Java.Java.maiyadaTask.maiyadaTask.week01_JavaTask;
+package Java.maiyadaTask.week01_JavaTask;
 
 public class DivideTwoNumbers {
 

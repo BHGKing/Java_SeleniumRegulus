@@ -1,4 +1,4 @@
-package main.Java.Java.maiyadaTask.maiyadaTask.week04_JavaTask;
+package Java.maiyadaTask.week04_JavaTask;
 
 public class RemoveDuplicates {
 
