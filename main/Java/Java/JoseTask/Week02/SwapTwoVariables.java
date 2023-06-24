@@ -3,23 +3,26 @@ package JoseTask.Week02;
 import java.util.Scanner;
 
 public class SwapTwoVariables {
-    public static void main(String a[]){
 
-        Scanner scanner = new Scanner(System.in);
+    //solution 1
+    public static void swap1(int a, int b) {
+        a = a + b;
+        b = a - b;
+        a = a - b;
 
-        System.out.print("Enter first number: ");
-        int x = scanner.nextInt();
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+    }
 
-        System.out.print("Enter second number: ");
-        int y = scanner.nextInt();
 
-        System.out.println("Before Swap:" + " x = " + x + ", y = " + y);
+    //solution 2
+    public static void swap2(int a, int b) {
+        a = a ^ b;
+        b = a ^ b;
+        a = a ^ b;
 
-        x = x + y;
-        y = x - y;
-        x = x - y;
-
-        System.out.println("After swapping:" + " x = " + x + ", y = " + y);
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
     }
 }
 /*
