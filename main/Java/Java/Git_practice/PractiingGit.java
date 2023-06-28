@@ -7,6 +7,7 @@ public class PractiingGit {
         System.out.println("create error");
         System.out.println("comment");
 
+        System.out.println("Trying to create conflict");
     }
 
 }
