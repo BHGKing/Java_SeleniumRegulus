@@ -20,6 +20,8 @@ public class PractiingGit {
 
         System.out.println("This is a test PT5");
 
+        System.out.println("Creating Conflic");
+
         System.out.println("we are working on a conflict");
     }
 
