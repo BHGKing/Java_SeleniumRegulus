@@ -26,6 +26,15 @@ public class PractiingGit {
 
         System.out.println("Jose - Creating Conflict");
 
+        System.out.println("Jose - Creating Conflict PT2");
+        System.out.println("Friday");
+        System.out.println("regulus");
+        System.out.println("hey");
+
+        System.out.println("Milena - Conflict");
+
+        System.out.println("Jose - Creating Conflict PT3");
+
 
 
 
