@@ -10,6 +10,8 @@ public class PractiingGit {
         System.out.println("Trying to create conflict");
 
         System.out.println("This is a test");
+
+        System.out.println("This is a test PT2");
     }
 
 }
