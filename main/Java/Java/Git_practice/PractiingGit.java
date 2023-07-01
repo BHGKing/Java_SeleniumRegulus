@@ -23,6 +23,8 @@ public class PractiingGit {
         System.out.println("Creating Conflic");
 
         System.out.println("we are working on a conflict");
+
+        System.out.println("Checking line 27 for a conflict");
     }
 
 }
