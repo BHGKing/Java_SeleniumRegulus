@@ -19,6 +19,8 @@ public class PractiingGit {
         System.out.println("This is a test PT4");
 
         System.out.println("This is a test PT5");
+
+        System.out.println("Creating Conflic");
     }
 
 }
