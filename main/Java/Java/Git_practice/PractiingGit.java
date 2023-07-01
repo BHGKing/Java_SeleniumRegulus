@@ -8,6 +8,8 @@ public class PractiingGit {
         System.out.println("comment");
         System.out.println("Good job!");
         System.out.println("Trying to create conflict");
+
+        System.out.println("This is a test");
     }
 
 }
