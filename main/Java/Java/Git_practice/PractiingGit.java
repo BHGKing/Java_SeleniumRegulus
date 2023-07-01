@@ -25,6 +25,8 @@ public class PractiingGit {
         System.out.println("we are working on a conflict");
 
         System.out.println("Jose - Creating Conflict");
+
+        System.out.println("Jose - Creating Conflict PT2");
     }
 
 }
