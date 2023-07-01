@@ -7,6 +7,10 @@ public class Practice1 {
 
         System.out.println(p);
 
+        System.out.println("Hello");
+
+
+
 
     }
 }
