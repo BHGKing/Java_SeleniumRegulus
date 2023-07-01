@@ -19,6 +19,12 @@ public class PractiingGit {
         System.out.println("This is a test PT4");
 
         System.out.println("This is a test PT5");
+
+        System.out.println("Creating Conflic");
+
+        System.out.println("we are working on a conflict");
+
+        System.out.println("Jose - Creating Conflict");
         System.out.println("Friday");
         System.out.println("regulus");
         System.out.println("hey");

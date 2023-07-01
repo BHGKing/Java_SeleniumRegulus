@@ -18,23 +18,13 @@ public class UniqueChar {
         String unique = "";
 
         for (int i = 0; i < str.length(); i++) {
-            char currentChar = str.charAt(i);
-            boolean isUnique = true;
+            char each = str.charAt(i);
 
-            for (int j = 0; j < str.length(); j++) {
+                if (str.indexOf(each) == str.lastIndexOf(each)){
 
-                if (i != j && currentChar == str.charAt(i)){
-
-                    isUnique = false;
-                    break;
+                    unique += str.charAt(i);
 
                 }
-
-            }
-
-            if (isUnique){
-                unique += str.charAt(i);
-            }
 
         }
         return unique;

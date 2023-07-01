@@ -1,28 +1,39 @@
 package JoseTask.Week02;
 
 public class DivisibleBy {
-    public static void main(String[] args) {
-        System.out.println("Divisible By 15:");
-        for (int i = 1; i <= 100; i++) {
-            if (i % 15 == 0) {
-                System.out.print(i + " ");
-            }
+
+    public static void solution(int n) {
+        String divisibleBy15 = "";
+        String divisibleBy5 = "";
+        String divisibleBy3 = "";
+
+        int[] arr = new int[n];
+
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = i + 1;
         }
 
-        System.out.println("\nDivisible By 5:");
-        for (int i = 1; i <= 100; i++) {
-            if (i % 5 == 0 && i % 15 != 0) {
-                System.out.print(i + " ");
+        for (int each : arr) {
+
+            if (each % 15 == 0 && each % 3 == 0) {
+                divisibleBy15 += each + " ";
             }
+
+            if (each % 5 == 0 && each % 15 != 0) {
+                divisibleBy5 += each + " ";
+            }
+
+            if (each % 3 == 0 && each % 15 != 0) {
+                divisibleBy3 += each + " ";
+            }
+
         }
 
-        System.out.println("\nDivisible By 3:");
-        for (int i = 1; i <= 100; i++) {
-            if (i % 3 == 0 && i % 15 != 0) {
-                System.out.print(i + " ");
-            }
-        }
+        System.out.println("Divisible By 15: " + divisibleBy15);
+        System.out.println("Divisible By 5: " + divisibleBy5);
+        System.out.println("Divisible By 3: " + divisibleBy3);
     }
+
 }
 /*
 1. Write a program that can print the numbers between 1 ~ 100 that can be divisible by 3, 5, and 15.
