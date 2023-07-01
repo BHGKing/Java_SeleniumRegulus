@@ -21,6 +21,7 @@ public class PractiingGit {
         System.out.println("This is a test PT5");
         System.out.println("Friday");
         System.out.println("regulus");
+        System.out.println("hey");
     }
 
 }
