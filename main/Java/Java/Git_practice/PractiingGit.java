@@ -28,6 +28,8 @@ public class PractiingGit {
         System.out.println("Friday");
         System.out.println("regulus");
         System.out.println("hey");
+
+        System.out.println("Milena - Conflict");
     }
 
 }
