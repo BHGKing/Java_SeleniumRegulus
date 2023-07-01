@@ -3,6 +3,7 @@ package JoseTask.Week06;
 import java.util.Scanner;
 
 public class String_PasswordValidation {
+
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
