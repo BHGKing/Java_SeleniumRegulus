@@ -61,6 +61,10 @@ public class PractiingGit {
         System.out.println("Retesting3");
 
         System.out.println("Retesting4");
+
+        System.out.println("Retesting5");
+
+        System.out.println("Retesting6");
     }
 
 }
