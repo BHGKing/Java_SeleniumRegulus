@@ -50,9 +50,17 @@ public class PractiingGit {
 
         System.out.println("Test2");
 
+        System.out.println("Jose Conflict4");
+
+        System.out.println("Jose Conflict5");
+
         System.out.println("Retesting1");
 
         System.out.println("Retesting2");
+
+        System.out.println("Retesting3");
+
+        System.out.println("Retesting4");
 
         System.out.println("Retesting5");
 
