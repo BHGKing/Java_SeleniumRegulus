@@ -42,6 +42,10 @@ public class PractiingGit {
 
         System.out.println("Jose Conflict");
 
+        System.out.println("Jose Conflict2");
+
+        System.out.println("Jose Conflict3");
+
         System.out.println("Test");
 
         System.out.println("Test2");
