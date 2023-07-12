@@ -93,6 +93,23 @@ public class PractiingGit {
         System.out.println("my maiyada");
         System.out.println("my maiyada");
         System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+
 
 
 
