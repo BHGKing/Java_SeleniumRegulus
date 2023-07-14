@@ -1,4 +1,3 @@
-
 public class Practicing_Git {
     public static void main(String[] args) {
 
@@ -9,6 +8,16 @@ public class Practicing_Git {
         System.out.println("123");
         System.out.println("Guys,");
         System.out.println("You rock!!!");
+        System.out.println("We are the best");
+        System.out.println("Hello");
+        System.out.println("Jose");
+        System.out.println("Jose");
+        System.out.println("Jose");
+        System.out.println("Jose");
+        System.out.println("Milena");
+        System.out.println("Milena");
+        System.out.println("Milena");
+
         System.out.println("You rock!!!");
         System.out.println("You rock!!!");
         System.out.println("You rock!!!");
