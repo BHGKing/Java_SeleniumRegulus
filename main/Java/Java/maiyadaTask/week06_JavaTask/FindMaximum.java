@@ -23,6 +23,7 @@ Ex:  int[] arr = {99, 12, 23, 32, 44, 57, 6} ==> 99
         return max;
 
 
+
     }
 
     public static void main(String[] args) {
@@ -31,6 +32,9 @@ Ex:  int[] arr = {99, 12, 23, 32, 44, 57, 6} ==> 99
         System.out.println(maxNum(arr));
 
 
+    }
+
+
 
     }
-}
+
