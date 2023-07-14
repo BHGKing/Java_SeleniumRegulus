@@ -136,6 +136,8 @@ public class PractiingGit {
 
 
 
+
+        System.out.println("Checking line 27 for a conflict");
     }
 
 }
