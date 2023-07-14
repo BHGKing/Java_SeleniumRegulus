@@ -6,6 +6,8 @@ public class Practicing_Git {
         System.out.println("Are you ready for our project ton start?/");
         System.out.println("45");
         System.out.println("123");
+        System.out.println("We are the best");
+        System.out.println("Hello");
 
 
 
