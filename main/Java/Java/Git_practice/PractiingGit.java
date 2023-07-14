@@ -41,6 +41,103 @@ public class PractiingGit {
 
 
         System.out.println("Jose Conflict");
+
+        System.out.println("Jose Conflict2");
+
+        System.out.println("Jose Conflict3");
+
+        System.out.println("Test");
+
+        System.out.println("Test2");
+
+        System.out.println("Jose Conflict4");
+
+        System.out.println("Jose Conflict5");
+
+        System.out.println("Retesting1");
+
+        System.out.println("Retesting2");
+
+        System.out.println("Retesting3");
+
+        System.out.println("Retesting4");
+
+        System.out.println("Retesting5");
+
+        System.out.println("Retesting6");
+
+        System.out.println("Retesting7");
+
+        System.out.println("Retesting8");
+
+        System.out.println("Retesting9");
+
+        System.out.println("Retesting10");
+
+        System.out.println("Retesting11");
+        System.out.println("Retesting12");
+        System.out.println("Retesting13");
+        System.out.println("Retesting14");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+        System.out.println("Retesting15");
+
+
+        System.out.println("Retesting11");
+        System.out.println("Retesting12");
+        System.out.println("Retesting13");
+        System.out.println("Retesting14");
+        System.out.println("Retesting15");
+        System.out.println("Retesting16");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+
+        System.out.println("Jose");
+        System.out.println("Jose");
+        System.out.println("Jose");
+        System.out.println("Jose");
+
+
+
+
+
+        System.out.println("Checking line 27 for a conflict");
     }
 
 }
