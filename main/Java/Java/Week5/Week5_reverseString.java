@@ -4,7 +4,7 @@ public class reverseString {
     public static void main(String[] args) {
 
         String str = "AAABBBCCCCCDEF";
-        System.out.println(Week5_reverseString.UniqueCharacter(str));
+        System.out.println(UniqueCharacter(str));
 
 
     }
