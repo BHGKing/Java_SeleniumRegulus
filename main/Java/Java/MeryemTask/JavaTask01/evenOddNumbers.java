@@ -17,7 +17,7 @@ public class evenOddNumbers {
         } else if (number % 2 != 0) {
             System.out.println("The given number is odd.");
         } else {
-            System.out.println("Invalid number entered, plase write a valid number!!");
+            System.out.println("Invalid number entered, please write a valid number!!");
 
 
         }
