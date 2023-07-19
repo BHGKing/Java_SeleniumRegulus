@@ -110,6 +110,24 @@ public class PractiingGit {
         System.out.println("my maiyada");
         System.out.println("my maiyada");
         System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+        System.out.println("my maiyada");
+
         System.out.println("Jose");
         System.out.println("Jose");
         System.out.println("Jose");
@@ -118,6 +136,8 @@ public class PractiingGit {
 
 
 
+
+        System.out.println("Checking line 27 for a conflict");
     }
 
 }
